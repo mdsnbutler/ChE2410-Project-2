@@ -9,6 +9,6 @@ System of differential equations describing study group hemoglobin concentration
 
 ![raw data](https://github.com/mdsnbutler/ChE2410-Project-2/blob/master/Exports/model.png)
 
-![raw data](https://github.com/mdsnbutler/ChE2410-Project-2/blob/master/Exports/second_model.png])
+![raw data](https://github.com/mdsnbutler/ChE2410-Project-2/blob/master/Exports/second_model.png)
 
 Model solution and capture estimation. There are still issues with this model that will be investigated.
